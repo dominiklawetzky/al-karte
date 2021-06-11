@@ -30,7 +30,7 @@ library(report)
 
 
 taunusstein <- data.frame(text = paste(sep = "<br/>",
-                                       "<b><a href='/tour/taunusstein'>Taunusstein</a></b>",
+                                       "<b><a href='https://anna-luehrmann.de/tour/taunusstein'>Taunusstein</a></b>",
                                        "9. August/22. August",
                                        "Name der Veranstaltung",
                                        "Location der Veranstaltung"),
@@ -38,7 +38,7 @@ taunusstein <- data.frame(text = paste(sep = "<br/>",
                           lat = 50.143028)
 
 niedernhausen <- data.frame(text = paste(sep = "<br/>",
-                                         "<b><a href='/tour/niedernhausen'>Niedernhausen</a></b>",
+                                         "<b><a href='https://anna-luehrmann.de/tour/niedernhausen'>Niedernhausen</a></b>",
                                          "10. August",
                                          "Name der Veranstaltung",
                                          "Location der Veranstaltung"),
@@ -46,7 +46,7 @@ niedernhausen <- data.frame(text = paste(sep = "<br/>",
                             lat = 50.222649)
 
 idstein <- data.frame(text = paste(sep = "<br/>",
-                                   "<b><a href='/tour/idstein'>Idstein</a></b>",
+                                   "<b><a href='https://anna-luehrmann.de/tour/idstein'>Idstein</a></b>",
                                    "11. August",
                                    "Name der Veranstaltung",
                                    "Location der Veranstaltung"),
@@ -54,7 +54,7 @@ idstein <- data.frame(text = paste(sep = "<br/>",
                       lat = 50.219256)
 
 badcamberg <- data.frame(text = paste(sep = "<br/>",
-                                      "<b><a href='/tour/bad-camberg'>Bad Camberg</a></b>",
+                                      "<b><a href='https://anna-luehrmann.de/tour/bad-camberg'>Bad Camberg</a></b>",
                                       "12. August",
                                       "Name der Veranstaltung",
                                       "Location der Veranstaltung"),
@@ -63,7 +63,7 @@ badcamberg <- data.frame(text = paste(sep = "<br/>",
 
 
 hadamar <- data.frame(text = paste(sep = "<br/>",
-                                   "<b><a href='/tour/hadamar'>Hadamar</a></b>",
+                                   "<b><a href='https://anna-luehrmann.de/tour/hadamar'>Hadamar</a></b>",
                                    "13. August",
                                    "Name der Veranstaltung",
                                    "Location der Veranstaltung"),
@@ -71,7 +71,7 @@ hadamar <- data.frame(text = paste(sep = "<br/>",
                       lat = 50.446248)
 
 limburg <- data.frame(text = paste(sep = "<br/>",
-                                   "<b><a href='/tour/limburg'>Limburg</a></b>",
+                                   "<b><a href='https://anna-luehrmann.de/tour/limburg'>Limburg</a></b>",
                                    "14. August",
                                    "Name der Veranstaltung",
                                    "Location der Veranstaltung"),
@@ -79,7 +79,7 @@ limburg <- data.frame(text = paste(sep = "<br/>",
                       lat = 50.388132)
 
 huenstetten <- data.frame(text = paste(sep = "<br/>",
-                                       "<b><a href='/tour/huenstetten'>Hünstetten</a></b>",
+                                       "<b><a href='https://anna-luehrmann.de/tour/huenstetten'>Hünstetten</a></b>",
                                        "15. August",
                                        "Name der Veranstaltung",
                                        "Location der Veranstaltung"),
@@ -87,7 +87,7 @@ huenstetten <- data.frame(text = paste(sep = "<br/>",
                           lat = 50.246343)
 
 hohenstein <- data.frame(text = paste(sep = "<br/>",
-                                      "<b><a href='/tour/hohenstein'>Hohenstein</a></b>",
+                                      "<b><a href='https://anna-luehrmann.de/tour/hohenstein'>Hohenstein</a></b>",
                                       "16. August",
                                       "Name der Veranstaltung",
                                       "Location der Veranstaltung"),
@@ -95,7 +95,7 @@ hohenstein <- data.frame(text = paste(sep = "<br/>",
                          lat = 50.199104)
 
 heidenrod <- data.frame(text = paste(sep = "<br/>",
-                                     "<b><a href='/tour/heidenrod'>Heidenrod</a></b>",
+                                     "<b><a href='https://anna-luehrmann.de/tour/heidenrod'>Heidenrod</a></b>",
                                      "17. August",
                                      "Name der Veranstaltung",
                                      "Location der Veranstaltung"),
@@ -103,7 +103,7 @@ heidenrod <- data.frame(text = paste(sep = "<br/>",
                         lat = 50.213436)
 
 lorch <- data.frame(text = paste(sep = "<br/>",
-                                 "<b><a href='/tour/lorch'>Lorch</a></b>",
+                                 "<b><a href='https://anna-luehrmann.de/tour/lorch'>Lorch</a></b>",
                                  "18. August",
                                  "Name der Veranstaltung",
                                  "Location der Veranstaltung"),
@@ -111,7 +111,7 @@ lorch <- data.frame(text = paste(sep = "<br/>",
                     lat = 50.046262)
 
 ruedesheim <- data.frame(text = paste(sep = "<br/>",
-                                      "<b><a href='/tour/ruedesheim'>Rüdesheim</a></b>",
+                                      "<b><a href='https://anna-luehrmann.de/tour/ruedesheim'>Rüdesheim</a></b>",
                                       "19. August",
                                       "Name der Veranstaltung",
                                       "Location der Veranstaltung"),
@@ -119,7 +119,7 @@ ruedesheim <- data.frame(text = paste(sep = "<br/>",
                          lat = 49.981382)
 
 eltville <- data.frame(text = paste(sep = "<br/>",
-                                    "<b><a href='/tour/eltville'>Eltville</a></b>",
+                                    "<b><a href='https://anna-luehrmann.de/tour/eltville'>Eltville</a></b>",
                                     "20. August",
                                     "Name der Veranstaltung",
                                     "Location der Veranstaltung"),
@@ -127,7 +127,7 @@ eltville <- data.frame(text = paste(sep = "<br/>",
                        lat = 50.025659)
 
 walluf <- data.frame(text = paste(sep = "<br/>",
-                                  "<b><a href='/tour/walluf'>Walluf</a></b>",
+                                  "<b><a href='https://anna-luehrmann.de/tour/walluf'>Walluf</a></b>",
                                   "21. August",
                                   "Name der Veranstaltung",
                                   "Location der Veranstaltung"),
@@ -135,7 +135,7 @@ walluf <- data.frame(text = paste(sep = "<br/>",
                      lat = 50.038636)
 
 badschwalbach <- data.frame(text = paste(sep = "<br/>",
-                                         "<b><a href='/tour/bad-schwalbach'>Bad Schwalbach</a></b>",
+                                         "<b><a href='https://anna-luehrmann.de/tour/bad-schwalbach'>Bad Schwalbach</a></b>",
                                          "22. August",
                                          "Name der Veranstaltung",
                                          "Location der Veranstaltung"),
@@ -156,7 +156,7 @@ library(leaflet)
 
 m <- leaflet() %>%
   addTiles() %>%
-  setView(lng = hohenstein$lng, lat = hohenstein$lat, zoom = 9) %>%
+  setView(lng = hohenstein$lng, lat = hohenstein$lat, zoom = 9.5) %>%
   addMarkers(lng = taunusstein$lng, lat = taunusstein$lat, popup = taunusstein$text) %>%
   addMarkers(lng = niedernhausen$lng, lat = niedernhausen$lat, popup = niedernhausen$text) %>%
   addMarkers(lng = idstein$lng, lat = idstein$lat, popup = idstein$text) %>%
