@@ -156,7 +156,7 @@ library(leaflet)
 
 m <- leaflet() %>%
   addTiles() %>%
-  setView(lng = hohenstein$lng, lat = hohenstein$lat, zoom = 9.5) %>%
+  setView(lng = hohenstein$lng, lat = hohenstein$lat, zoom = 9) %>%
   addMarkers(lng = taunusstein$lng, lat = taunusstein$lat, popup = taunusstein$text) %>%
   addMarkers(lng = niedernhausen$lng, lat = niedernhausen$lat, popup = niedernhausen$text) %>%
   addMarkers(lng = idstein$lng, lat = idstein$lat, popup = idstein$text) %>%
