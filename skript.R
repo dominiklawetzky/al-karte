@@ -57,7 +57,7 @@ badcamberg <- data.frame(text = paste(sep = "<br/>",
                                       "<b><a href='https://anna-luehrmann.de/zukunftstour/route/etappe-4/'>Bad Camberg</a></b>",
                                       "12. August",
                                       "Startpunkt: Taunusresidenz",
-                                      "Startzeit: -"),
+                                      "Startzeit: 10:00 Uhr"),
                          lng = 8.265960,
                          lat = 50.298260)
 
@@ -65,8 +65,8 @@ badcamberg <- data.frame(text = paste(sep = "<br/>",
 hadamar <- data.frame(text = paste(sep = "<br/>",
                                    "<b><a href='https://anna-luehrmann.de/zukunftstour/route/etappe-5/'>Hadamar</a></b>",
                                    "13. August",
-                                   "Startpunkt: -",
-                                   "Startzeit: -"),
+                                   "Startpunkt: Sportplatz Dietkirchen",
+                                   "Startzeit: 10:00"),
                       lng = 8.045833,
                       lat = 50.446248)
 
@@ -74,7 +74,7 @@ limburg <- data.frame(text = paste(sep = "<br/>",
                                    "<b><a href='https://anna-luehrmann.de/zukunftstour/route/etappe-6/'>Limburg</a></b>",
                                    "14. August",
                                    "Startpunkt: Wahlkampfstand, Limburg",
-                                   "Startzeit: -"),
+                                   "Startzeit: 10:00 Uhr"),
                       lng = 8.064733,
                       lat = 50.388132)
 
@@ -150,7 +150,7 @@ karte <- data.frame(ort = c("Taunusstein", "Niedernhausen", "Idstein", "Bad Camb
 
 ###### Karte erstellen -----
 
-#install.packages("leaflet")
+install.packages("leaflet")
 library(leaflet)
 
 
